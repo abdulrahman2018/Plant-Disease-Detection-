@@ -4,7 +4,7 @@
 Plant Disease Detection is a project aimed at automatically detecting diseases in plants using deep learning techniques. The goal of this project is to assist farmers and agriculture professionals in early disease detection, leading to better crop management and higher yields.
 
 ## Dataset
-The dataset used in this project is sourced from the PlantVillage dataset, which contains images of various plant diseases as well as healthy plants. You can find more information and download the dataset [[](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data)].
+The dataset used in this project is sourced from the PlantVillage dataset, which contains images of various plant diseases as well as healthy plants. You can find more information and download the dataset [[](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data)]https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data.
 
 ## Installation
 1. Clone the repository:
